@@ -1,2 +1,3 @@
 # Project
 CSC211
+We have designed a time calculator, Average Calculator, Leap Year calculator and dice Roll. The time calculator can be used in our everyday lives , we have to just input the time in seconds and after running the program the time is displayed in hours: minutes :seconds. The leap calculator will help us to find that the particular year is a leap year or not we have to just input the year . Suppose if we need to check if 2022 is a leap year or not just input the year and it will show it is not a leap year. In Dice Roll we have used the random and it will generate some number from 1 to 6 . In average calculator just input any three whole number and the average of the numbers will be shown in the output.
